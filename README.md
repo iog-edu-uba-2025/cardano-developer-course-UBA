@@ -52,6 +52,18 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 | **TA** | Antonio Ibarra | [antonio.ibarra@iohk.io](mailto:antonio.ibarra@iohk.io) |
 
 ---
+## 📋 Evaluación Diagnóstica
+
+**¡Antes de comenzar, evalúa tus conocimientos!**
+Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
+
+  <a href="https://app.easyevaluate.com/attendee/test/mNHKDOjEwC">
+    <strong>🔗 Haz clic aquí para acceder</strong>
+  </a>
+
+💡 Nota: Esta evaluación diagnóstica te ayudará a identificar tu nivel actual de conocimientos sobre Cardano blockchain, smart contracts y el lenguaje Aiken. Te permitirá enfocar mejor tu aprendizaje durante el curso.
+
+---
 
 ## 📅 Programa del Curso
 
