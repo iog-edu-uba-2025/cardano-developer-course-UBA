@@ -39,7 +39,7 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 
 | Directorio | Descripción |
 |------------|-------------|
-| **[lecciones](lecciones/)** | Material presentado en clase: diapositivas, código |
+| **[diapositivas](diapositivas/)** | Material presentado en clase: diapositivas, código |
 
 ---
 
@@ -82,13 +82,15 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | Introducción al curso | 🎞️ |
-| 2 | Introducción a las herramientas | 🎞️ |
+| 1 | Introducción al curso | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%201%20-Introducci%C3%B3n%20al%20curso%20y%20herramientas.pdf) |
+| 2 | Introducción a las herramientas | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%201%20-Introducci%C3%B3n%20al%20curso%20y%20herramientas.pdf) |
 | 3 | Preparar ambiente de desarrollo | 👣 |
-| 4 | Criptografía | 🎞️ |
-| 5 | Blockchains, Tx, Bloques, Nodos y Billeteras | 🎞️ |
+| 4 | Criptografía | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
+| 5 | Blockchains, Tx, Bloques, Nodos y Billeteras |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
 
-**📖 Material Opcional:** [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+**📖 Material Opcional:** 
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Edinburgh Decentralisation Index](https://informatics.ed.ac.uk/blockchain/edi)
 
 ---
 
