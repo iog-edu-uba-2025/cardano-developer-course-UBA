@@ -220,7 +220,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 ### 2️⃣ Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/cardano-developer-course-uba-2025.git
+git clone git@github.com:iog-edu-uba-2025/cardano-developer-course-UBA.git
 cd cardano-developer-course-uba-2025
 ```
 
