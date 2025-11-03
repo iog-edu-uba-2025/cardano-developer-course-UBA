@@ -103,7 +103,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 5 | On-chain VS Off-chain | 🎞️ |
 
 **📖 Material Opcional:** 
-- [The Extended UTXO Model](https://files.zotero.net/eyJleHBpcmVzIjoxNzE5NDE4MDY5LCJoYXNoIjoiYTVhYmY4NjdiY2E2YzdkNTNjODkwNWNmZDZhYmM5MjAiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJDaGFrcmF2YXJ0eSBldCBhbC4gLSAyMDIwIC0gVGhlIEV4dGVuZGVkIFVUWE8gTW9kZWwucGRmIn0%3D/67e640ec5942fd39615e78de8b168dc94c2d4553efea4b009953e58db354fd4b/Chakravarty%20et%20al.%20-%202020%20-%20The%20Extended%20UTXO%20Model.pdf)
+- [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
 - [UTxO vs Account-Based Smart Contract Programming](https://arxiv.org/pdf/2003.14271)
 
 ---
@@ -166,7 +166,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 5 | PM: "Mint if signed by & Token Name" | ✍️ |
 | 6 | PM: NFT + Dapp | 👣 |
 
-**📖 Material Opcional:** [Native Custom Tokens in the Extended UTXO Model](https://files.zotero.net/eyJleHBpcmVzIjoxNzE5NDE4MTI3LCJoYXNoIjoiMDBmMTM0NGZkYTg2ZTBhOWJkZWI4ZDhhYjIzZjIzYzAiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJDaGFrcmF2YXJ0eSBldCBhbC4gLSAyMDIwIC0gTmF0aXZlIEN1c3RvbSBUb2tlbnMgaW4gdGhlIEV4dGVuZGVkIFVUWE8gTW9kZWwucGRmIn0%3D/3e79305c6f6ddfb40db32e62cbee6c358351b4741d0b49f32fbb9560bcdb5772/Chakravarty%20et%20al.%20-%202020%20-%20Native%20Custom%20Tokens%20in%20the%20Extended%20UTXO%20Model.pdf)
+**📖 Material Opcional:** [Native Custom Tokens in the Extended UTXO Model](https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/)
 
 ---
 
