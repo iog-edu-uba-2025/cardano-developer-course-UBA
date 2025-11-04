@@ -98,10 +98,10 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 
 | Parte | Contenido | Actividad |
 |:-----:|:----------|:---------:|
-| 1 | Modelo UTxO | 🎞️ |
+| 1 | Modelo UTxO | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2002%20-%20Parte%201%20-%20EUTxO.pdf) |
 | 2 | Diagramar transacción UTxO | [✍️](https://classroom.github.com/a/AkRf_ORB) |
 | 3 | Crear Tx con billetera e inspeccionar con chain explorer | [✍️](https://classroom.github.com/a/q0OW3teH) |
-| 4 | Modelo (E)UTxO | 🎞️ |
+| 4 | Modelo (E)UTxO |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2002%20-%20Parte%201%20-%20EUTxO.pdf)  |
 | 5 | On-chain VS Off-chain | 🎞️ |
 
 **📖 Material Opcional:** 
