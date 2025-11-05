@@ -19,6 +19,7 @@
 El **Cardano Developer Course (CDC)** es un programa intensivo diseñado por el equipo de educación de **Input Output Global (IOG)** para formar desarrolladores profesionales en la creación de **Smart Contracts** y **aplicaciones descentralizadas (DApps)** sobre la blockchain de Cardano.
 
 Este repositorio contiene todo el material necesario para completar el curso exitosamente:
+
 - 📚 Lecciones teóricas y prácticas
 - 💻 Ejemplos de código
 - ✍️ Ejercicios
@@ -52,6 +53,7 @@ Este repositorio contiene todo el material necesario para completar el curso exi
 | **TA** | Antonio Ibarra | [antonio.ibarra@iohk.io](mailto:antonio.ibarra@iohk.io) |
 
 ---
+
 ## 📋 Evaluación Diagnóstica
 
 **¡Antes de comenzar, evalúa tus conocimientos!**
@@ -88,7 +90,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 4 | Criptografía | [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
 | 5 | Blockchains, Tx, Bloques, Nodos y Billeteras |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2001%20-%20Parte%202%20-%20Introducci%C3%B3n%20a%20Blockchain.pdf) |
 
-**📖 Material Opcional:** 
+**📖 Material Opcional:**
+
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Edinburgh Decentralisation Index](https://informatics.ed.ac.uk/blockchain/edi)
 
@@ -104,9 +107,12 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 4 | Modelo (E)UTxO |  [🎞️](https://github.com/iog-edu-uba-2025/cardano-developer-course-UBA/blob/main/diapositivas/D%C3%ADa%2002%20-%20Parte%201%20-%20EUTxO.pdf)  |
 | 5 | On-chain VS Off-chain | 🎞️ |
 
-**📖 Material Opcional:** 
+**📖 Material Opcional:**
+
 - [The Extended UTXO Model](https://iohk.io/en/research/library/papers/the-extended-utxo-model/)
 - [UTxO vs Account-Based Smart Contract Programming](https://arxiv.org/pdf/2003.14271)
+- [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://iohk.io/en/research/library/papers/ouroboros-a-provably-secure-proof-of-stake-blockchain-protocol/)
+- [Presentación del libro "Mastering Cardano"](diapositivas/Día%202%20-%20Mastering%20Cardano%20-%20Español.pdf)
 
 ---
 
@@ -136,7 +142,9 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 7 | Validador "`redeemer == 42`" + off-chain | 👣 |
 | 8 | Validador `redeemer == datum` | ✍️ |
 
-**📖 Material Opcional:** [Formal Specification of Plutus Core - Capítulos 1 y 2.1](https://intersectmbo.github.io/plutus/resources/plutus-core-spec.pdf)
+**📖 Material Opcional:**
+
+- [Formal Specification of Plutus Core - Capítulos 1 y 2.1](https://intersectmbo.github.io/plutus/resources/plutus-core-spec.pdf)
 
 ---
 
@@ -151,7 +159,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 5 | Tiempo en validadores Plutus | 🎞️ |
 | 6 | Validador "Vesting" | 🎞️ + 👣 |
 
-**📖 Material Opcional:** 
+**📖 Material Opcional:**
+
 - [CIP-0001](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0001)
 - [CIP-0019](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0019)
 
@@ -168,7 +177,9 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 5 | PM: "Mint if signed by & Token Name" | ✍️ |
 | 6 | PM: NFT + Dapp | 👣 |
 
-**📖 Material Opcional:** [Native Custom Tokens in the Extended UTXO Model](https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/)
+**📖 Material Opcional:**
+
+- [Native Custom Tokens in the Extended UTXO Model](https://iohk.io/en/research/library/papers/native-custom-tokens-in-the-extended-utxo-model/)
 
 ---
 
@@ -179,7 +190,8 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 1 | Oracle + Server | 👣 |
 | 2 | Validadores "Gift Card" | ✍️ |
 
-**📖 Material Opcional:** 
+**📖 Material Opcional:**
+
 - [CIP-0031](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0031)
 - [CIP-0033](https://github.com/cardano-foundation/CIPs/tree/master/CIP-0033)
 
@@ -218,7 +230,6 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 - Git instalado
 - Node.js (v18 o superior)
 
-
 ### 2️⃣ Clonar el Repositorio
 
 ```bash
@@ -226,15 +237,16 @@ git clone git@github.com:iog-edu-uba-2025/cardano-developer-course-UBA.git
 cd cardano-developer-course-uba-2025
 ```
 
-
 ## 📚 Recursos Adicionales
 
 ### Documentación Oficial
+
 - 🌐 [Aiken Lang](https://aiken-lang.org/)
 - 🌐 [Cardano Docs](https://docs.cardano.org/)
 - 🌐 [MeshJS](https://meshjs.dev/)
 
 ### Comunidad
+
 - 💬 [Cardano Forum](https://forum.cardano.org/)
 - 💬 [IOG Discord](https://discord.gg/inputoutput)
 - 🎥 [IOG Academy YouTube](https://www.youtube.com/@iogacademy)
@@ -246,7 +258,6 @@ cd cardano-developer-course-uba-2025
 Este material es provisto por Input Output Global para fines educativos.
 
 ---
-
 
 <p align="center">
   <strong>¡Feliz aprendizaje! 🎓</strong>
