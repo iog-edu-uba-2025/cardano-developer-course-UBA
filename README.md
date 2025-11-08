@@ -143,7 +143,7 @@ Evaluación Diagnóstica: Cardano, Smart Contracts y Aiken
 | 1 | Crear nuevo proyecto Aiken | 👣 |
 | 2 | Aiken: CLI, estructura de proyecto, usar docs | 👀 |
 | 3 | Introducción a Aiken | 🎞️ |
-| 4 | Lenguaje Aiken | ✍️ |
+| 4 | Lenguaje Aiken | [✍️](https://classroom.github.com/a/vEd8ieLs) |
 | 5 | Introducción a Validadores Plutus | 🎞️ |
 | 6 | Validador "Always true/false" + off-chain | 👣 |
 | 7 | Validador "`redeemer == 42`" + off-chain | 👣 |
