@@ -1,0 +1,50 @@
+{
+  "preamble": {
+    "title": "luisantonioig/consume-if-signed",
+    "description": "Aiken contracts for project 'luisantonioig/consume-if-signed'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.19+a8c0329"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": [
+    {
+      "title": "consume_if_signed.vesting.spend",
+      "datum": {
+        "title": "datum",
+        "schema": {
+          "$ref": "#/definitions/aiken~1crypto~1VerificationKeyHash"
+        }
+      },
+      "redeemer": {
+        "title": "_r",
+        "schema": {
+          "$ref": "#/definitions/Data"
+        }
+      },
+      "compiledCode": "58b601010029800aba2aba1aab9faab9eaab9dab9a48888896600264646644b30013370e900118031baa00189919912cc004cdc3a400060126ea800626466446600400400244b30010018a508acc004cdc79bae300f0010038a518998010011808000a01640386eb0c034c038c038c038c038c038c038c038c038c02cdd518068041bae300c300a3754003164020601400260146016002600e6ea80062c8028c01c004c01cc020004c01c004c00cdd5003c52689b2b20021",
+      "hash": "3f316cc23258e7c731ff1d5d459ee1996d2af0f278e6c6026a393cbc"
+    },
+    {
+      "title": "consume_if_signed.vesting.else",
+      "redeemer": {
+        "schema": {}
+      },
+      "compiledCode": "58b601010029800aba2aba1aab9faab9eaab9dab9a48888896600264646644b30013370e900118031baa00189919912cc004cdc3a400060126ea800626466446600400400244b30010018a508acc004cdc79bae300f0010038a518998010011808000a01640386eb0c034c038c038c038c038c038c038c038c038c02cdd518068041bae300c300a3754003164020601400260146016002600e6ea80062c8028c01c004c01cc020004c01c004c00cdd5003c52689b2b20021",
+      "hash": "3f316cc23258e7c731ff1d5d459ee1996d2af0f278e6c6026a393cbc"
+    }
+  ],
+  "definitions": {
+    "Data": {
+      "title": "Data",
+      "description": "Any Plutus data."
+    },
+    "aiken/crypto/VerificationKeyHash": {
+      "title": "VerificationKeyHash",
+      "dataType": "bytes"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "preamble": {
+    "title": "luisantonioig/vesting",
+    "description": "Aiken contracts for project 'luisantonioig/vesting'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.19+a8c0329"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": [
+    {
+      "title": "vesting.vesting.spend",
+      "datum": {
+        "title": "datum",
+        "schema": {
+          "$ref": "#/definitions/vesting~1VestingDatum"
+        }
+      },
+      "redeemer": {
+        "title": "_r",
+        "schema": {
+          "$ref": "#/definitions/Data"
+        }
+      },
+      "compiledCode": "59011401010029800aba2aba1aab9faab9eaab9dab9a48888896600264653001300700198039804000cc01c0092225980099b8748008c01cdd500144c8cc896600266e1d2000300a37540031325980099199119801001000912cc00400629422b30013371e6eb8c04400400e2946266004004602400280690101bac300f30103010301030103010301030103010300d375400c6eb8c038c030dd5000c4c96600266e1d2002300c37540031337126eb4c03cc040c034dd50011bad300f300d375400314a08058c038c030dd5180718061baa300e300f300f300f300f300f300f300f300c375400b14a08050c034c02cdd5000c5900918058009805980600098041baa0028b200c180380098019baa0078a4d13656400401",
+      "hash": "290e7054925bd076f3cc3c516422f7fcf744be0f88b722de3354ddb2"
+    },
+    {
+      "title": "vesting.vesting.else",
+      "redeemer": {
+        "schema": {}
+      },
+      "compiledCode": "59011401010029800aba2aba1aab9faab9eaab9dab9a48888896600264653001300700198039804000cc01c0092225980099b8748008c01cdd500144c8cc896600266e1d2000300a37540031325980099199119801001000912cc00400629422b30013371e6eb8c04400400e2946266004004602400280690101bac300f30103010301030103010301030103010300d375400c6eb8c038c030dd5000c4c96600266e1d2002300c37540031337126eb4c03cc040c034dd50011bad300f300d375400314a08058c038c030dd5180718061baa300e300f300f300f300f300f300f300f300c375400b14a08050c034c02cdd5000c5900918058009805980600098041baa0028b200c180380098019baa0078a4d13656400401",
+      "hash": "290e7054925bd076f3cc3c516422f7fcf744be0f88b722de3354ddb2"
+    }
+  ],
+  "definitions": {
+    "Data": {
+      "title": "Data",
+      "description": "Any Plutus data."
+    },
+    "Int": {
+      "dataType": "integer"
+    },
+    "aiken/crypto/VerificationKeyHash": {
+      "title": "VerificationKeyHash",
+      "dataType": "bytes"
+    },
+    "vesting/VestingDatum": {
+      "title": "VestingDatum",
+      "anyOf": [
+        {
+          "title": "VestingDatum",
+          "dataType": "constructor",
+          "index": 0,
+          "fields": [
+            {
+              "title": "beneficiary",
+              "$ref": "#/definitions/aiken~1crypto~1VerificationKeyHash"
+            },
+            {
+              "title": "deadline",
+              "$ref": "#/definitions/Int"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
